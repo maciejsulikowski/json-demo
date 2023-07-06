@@ -1,0 +1,116 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
+      "author_id": 1,
+      "author_name": "Henry Ford"
+    },
+    {
+      "id": 2,
+      "content": "Twoje życie zmieni się dopiero wtedy, gdy zaczniesz zmieniać się sam.",
+      "author_id": 2,
+      "author_name": "Tony Robbins"
+    },
+    {
+      "id": 3,
+      "content": "Sukces to nie klucz do szczęścia. Szczęście to klucz do sukcesu. Jeśli kochasz to, co robisz, osiągniesz sukces.",
+      "author_id": 3,
+      "author_name": "Albert Schweitzer"
+    },
+    {
+      "id": 4,
+      "content": "Sukces to nie końcowa stacja. To droga ciągłego doskonalenia się.",
+      "author_id": 4,
+      "author_name": "Michael Jordan"
+    },
+    {
+      "id": 5,
+      "content": "Nie boj się porażki. Bo porażka to tylko kolejny krok do sukcesu.",
+      "author_id": 5,
+      "author_name": "Winston Churchill"
+    },
+    {
+      "id": 6,
+      "content": "Większość ludzi przecenia to, co mogą osiągnąć w rok, i niedocenia to, co mogą osiągnąć w dziesięć lat.",
+      "author_id": 6,
+      "author_name": "Bill Gates"
+    },
+    {
+      "id": 7,
+      "content": "Nie tracaj czasu na zazdrość. Czasami podziwianie jest zdrowsze.",
+      "author_id": 7,
+      "author_name": "Oprah Winfrey"
+    },
+    {
+      "id": 8,
+      "content": "Sukces to suma małych wysiłków powtarzanych dzień po dniu.",
+      "author_id": 8,
+      "author_name": "Robert Collier"
+    },
+    {
+      "id": 9,
+      "content": "Nigdy nie jest za późno, aby być tym, kim chcesz być.",
+      "author_id": 9,
+      "author_name": "George Eliot"
+    },
+    {
+      "id": 10,
+      "content": "Najlepszy sposób na przewidzenie przyszłości jest jej stworzenie.",
+      "author_id": 10,
+      "author_name": "Peter Drucker"
+    }
+  ],
+"stories": [
+    {
+      "author_id": 1,
+      "bio": "Ford jest uważany za jednego z najbardziej wpływowych przedsiębiorców w historii motoryzacji. Jego wkład w rozwój przemysłu samochodowego oraz wprowadzenie modelu T, który stał się pierwszym masowo produkowanym samochodem, jest niezaprzeczalny."
+      "picture": "https://example.com/henry_ford.jpg"
+    },
+    {
+      "author_id": 2,
+      "bio": "Tony Robbins to amerykański mówca motywacyjny, pisarz i coach. Jego książki i seminaria motywacyjne przyczyniły się do zmiany życia tysięcy ludzi na całym świecie. Robbins jest znany z przekazywania narzędzi i strategii, które pomagają osiągnąć sukces i osobistą transformację."
+      "picture": "https://example.com/tony_robbins.jpg"
+    },
+    {
+      "author_id": 3,
+      "bio": "Albert Schweitzer był niemieckim lekarzem, filozofem, teologiem i muzykiem. Jego filozofia opierała się na idei szacunku dla życia i altruizmu. Schweitzer poświęcił większość swojego życia na misję medyczną w Afryce Środkowej, gdzie założył szpital i pomagał biednym i chorym."
+      "picture": "https://example.com/albert_schweitzer.jpg"
+    },
+    {
+      "author_id": 4,
+      "bio": "Michael Jordan to amerykańska legenda koszykówki. Uważany za jednego z największych graczy w historii tego sportu, Jordan zdobył wiele mistrzostw NBA i został sześciokrotnym mistrzem. Jego determinacja, umiejętności i wola walki są nadal inspiracją dla wielu sportowców i fanów na całym świecie."
+      "picture": "https://example.com/michael_jordan.jpg"
+    },
+    {
+      "author_id": 5,
+      "bio": "Winston Churchill był brytyjskim politykiem i mówcą. Jako premier Wielkiej Brytanii w czasie II wojny światowej, Churchill stał się symbolem odwagi i niezłomności. Jego inspirujące przemówienia i determinacja w walce przeciwko nazizmowi są nadal cenione i cytowane do dzisiaj."
+      "picture": "https://example.com/winston_churchill.jpg"
+    },
+    {
+      "author_id": 6,
+      "bio": "Bill Gates to amerykański przedsiębiorca i filantrop. Jako współzałożyciel Microsoftu, Gates odegrał kluczową rolę w rewolucji komputerowej. Obecnie zajmuje się działalnością charytatywną poprzez Fundację Bill i Melindy Gatesów, która skupia się na zwalczaniu chorób
+      "picture": "https://example.com/winston_churchill.jpg"
+    },
+    {
+    "author_id": 7,
+      "bio": "Oprah Winfrey to amerykańska producentka telewizyjna, prezenterka, aktorka i filantropka. Jej talk-show, \"The Oprah Winfrey Show\", było jednym z najbardziej wpływowych programów telewizyjnych wszech czasów. Winfrey jest również znana z zaangażowania społecznego i działalności charytatywnej."
+      "picture": "https://example.com/oprah_winfrey.jpg"
+    },
+    {
+      "author_id": 8,
+      "bio": "Robert Collier był amerykańskim pisarzem i autorem książek z dziedziny rozwoju osobistego. Jego prace skupiały się na sile myśli i wizualizacji w osiąganiu sukcesu. Collier jest uważany za jednego z pionierów ruchu samorozwoju."
+      "picture": "https://example.com/robert_collier.jpg"
+    },
+    {
+      "author_id": 9,
+      "bio": "George Eliot to pseudonim używany przez brytyjską pisarkę Mary Ann Evans. Jej powieści, takie jak \"Middlemarch\" i \"Daniel Deronda\", są uważane za klasyki literatury angielskiej. Eliot była jedną z najbardziej wpływowych pisarek swojego czasu i zajmowała się tematyką społeczną i moralną."
+      "picture": "https://example.com/george_eliot.jpg"
+    },
+    {
+      "author_id": 10,
+      "bio": "Peter Drucker był austriacko-amerykańskim teoretykiem zarządzania i konsultantem. Jego książki, takie jak \"The Practice of Management\" i \"Innovation and Entrepreneurship\", miały ogromny wpływ na dziedzinę zarządzania i przedsiębiorczości. Drucker jest uważany za jednego z ojców zarządzania."
+      "picture": "https://example.com/peter_drucker.jpg"
+    }
+  ]
+}
