@@ -65,52 +65,62 @@
     {
       "author_id": 1,
       "bio": "Ford jest uważany za jednego z najbardziej wpływowych przedsiębiorców w historii motoryzacji. Jego wkład w rozwój przemysłu samochodowego oraz wprowadzenie modelu T, który stał się pierwszym masowo produkowanym samochodem, jest niezaprzeczalny.",
-      "picture": "https://example.com/henry_ford.jpg"
+      "picture": "https://cdn.pixabay.com/photo/2012/10/26/02/32/henry-ford-63113_1280.jpg",
+      "source": "https://pixabay.com/pl/photos/henry-ford-portret-facet-63113/"
     },
     {
       "author_id": 2,
       "bio": "Tony Robbins to amerykański mówca motywacyjny, pisarz i coach. Jego książki i seminaria motywacyjne przyczyniły się do zmiany życia tysięcy ludzi na całym świecie. Robbins jest znany z przekazywania narzędzi i strategii, które pomagają osiągnąć sukces i osobistą transformację.",
-      "picture": "https://example.com/tony_robbins.jpg"
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tony_Robbins.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tony_Robbins.jpg"
     },
     {
       "author_id": 3,
       "bio": "Albert Schweitzer był niemieckim lekarzem, filozofem, teologiem i muzykiem. Jego filozofia opierała się na idei szacunku dla życia i altruizmu. Schweitzer poświęcił większość swojego życia na misję medyczną w Afryce Środkowej, gdzie założył szpital i pomagał biednym i chorym.",
-      "picture": "https://example.com/albert_schweitzer.jpg"
+      "picture": "https://cdn.pixabay.com/photo/2021/05/06/22/31/albert-schweitzer-6234657_1280.png",
+      "source": "https://pixabay.com/pl/illustrations/albert-schweitzer-twarz-facet-6234657/"
     },
     {
       "author_id": 4,
       "bio": "Michael Jordan to amerykańska legenda koszykówki. Uważany za jednego z największych graczy w historii tego sportu, Jordan zdobył wiele mistrzostw NBA i został sześciokrotnym mistrzem. Jego determinacja, umiejętności i wola walki są nadal inspiracją dla wielu sportowców i fanów na całym świecie.",
-      "picture": "https://example.com/michael_jordan.jpg"
+      "picture": "https://cdn.pixabay.com/photo/2022/07/09/22/16/michael-jordan-7311821_1280.png",
+      "source": "https://pixabay.com/pl/illustrations/michael-jordan-sportowiec-koszyk%C3%B3wka-7311821/"
     },
     {
       "author_id": 5,
       "bio": "Winston Churchill był brytyjskim politykiem i mówcą. Jako premier Wielkiej Brytanii w czasie II wojny światowej, Churchill stał się symbolem odwagi i niezłomności. Jego inspirujące przemówienia i determinacja w walce przeciwko nazizmowi są nadal cenione i cytowane do dzisiaj.",
-      "picture": "https://example.com/winston_churchill.jpg"
+      "picture": "https://cdn.pixabay.com/photo/2016/04/01/10/17/britain-1299836_1280.png",
+      "source": "https://pixabay.com/pl/vectors/brytania-churchill-s%C5%82awny-ludzie-1299836/"
     },
     {
       "author_id": 6,
       "bio": "Bill Gates to amerykański przedsiębiorca i filantrop. Jako współzałożyciel Microsoftu, Gates odegrał kluczową rolę w rewolucji komputerowej. Obecnie zajmuje się działalnością charytatywną poprzez Fundację Bill i Melindy Gatesów, która skupia się na zwalczaniu chorób.",
-      "picture": "https://example.com/winston_churchill.jpg"
+      "picture": "https://freepngimg.com/thumb/bill_gates/23973-7-bill-gates-file.png",
+      "source": "https://freepngimg.com/png/23973-bill-gates-file"
     },
     {
     "author_id": 7,
       "bio": "Oprah Winfrey to amerykańska producentka telewizyjna, prezenterka, aktorka i filantropka. Jej talk-show, \"The Oprah Winfrey Show\", było jednym z najbardziej wpływowych programów telewizyjnych wszech czasów. Winfrey jest również znana z zaangażowania społecznego i działalności charytatywnej.",
-      "picture": "https://example.com/oprah_winfrey.jpg"
+      "picture": "https://images.all-free-download.com/images/graphicwebp/oprah_winfrey_191340.webp",
+      "source": "https://all-free-download.com/free-photos/download/oprah_winfrey_191340.html"
     },
     {
       "author_id": 8,
       "bio": "Robert Collier był amerykańskim pisarzem i autorem książek z dziedziny rozwoju osobistego. Jego prace skupiały się na sile myśli i wizualizacji w osiąganiu sukcesu. Collier jest uważany za jednego z pionierów ruchu samorozwoju.",
-      "picture": "https://example.com/robert_collier.jpg"
+      "picture": "https://www.lookandlearn.com/history-images/preview/YR/YR0/YR0623/YR0623401_Sir-Robert-Porrett-Collier.jpg",
+      "source": "https://www.lookandlearn.com/history-images/YR0623401/Sir-Robert-Porrett-Collier"
     },
     {
       "author_id": 9,
       "bio": "George Eliot to pseudonim używany przez brytyjską pisarkę Mary Ann Evans. Jej powieści, takie jak \"Middlemarch\" i \"Daniel Deronda\", są uważane za klasyki literatury angielskiej. Eliot była jedną z najbardziej wpływowych pisarek swojego czasu i zajmowała się tematyką społeczną i moralną.",
-      "picture": "https://example.com/george_eliot.jpg"
+      "picture": "https://free-images.com/lg/b32c/george_eliot_7.jpg",
+      "source": "https://free-images.com/display/george_eliot_7.html"
     },
     {
       "author_id": 10,
       "bio": "Peter Drucker był austriacko-amerykańskim teoretykiem zarządzania i konsultantem. Jego książki, takie jak \"The Practice of Management\" i \"Innovation and Entrepreneurship\", miały ogromny wpływ na dziedzinę zarządzania i przedsiębiorczości. Drucker jest uważany za jednego z ojców zarządzania.",
-      "picture": "https://example.com/peter_drucker.jpg"
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Drucker5789.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Drucker5789.jpg"
     }
   ]
 }
